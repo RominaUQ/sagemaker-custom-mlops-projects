@@ -9,31 +9,57 @@ To do this, after you enable administrator access to the SageMaker templates,
 2-	On the AWS Service Catalog console, under Administration, choose Portfolios.
 
 3-	Choose Create a new portfolio.
+
 4-	Name the portfolio SageMaker Organization Templates.
+
 5-	Download the train-build-deploy.yml to your computer.
+
 6-	Choose the new portfolio.
+
 7-	Choose Upload a new product.
+
 8-	For Product name¸ enter build-deploy-template.
+
 9-	For Description, enter my custom build and deploy template.
+
 10-	For Owner, enter your name.
+
 11-	Under Version details, for Method, choose Use a template file.
+
 12-	Choose Upload a template.
+
 13-	Upload the template you downloaded.
+
 14-	For Version title, choose 1.0.
+
 15.	Choose Review.
+
 16.	Review your settings and choose Create product.
+
 17.	Choose Refresh to list the new product.
+
 18.	Choose the product you just created.
+
 19.	On the Tags tab, add the following tag to the product:
-a.	Key – sagemaker:studio-visibility
-b.	Value – true
-15-	 Back in the portfolio details, you see something similar to the following screenshot (with different IDs).
+  a.	Key – sagemaker:studio-visibility
+  b.	Value – true
+
+20.	 Back in the portfolio details, you see something similar to the following screenshot (with different IDs).
+
 16-	On the Constraints tab, choose Create constraint.
+
 17-	For Product, choose build-deploy-template (the product you just created).
+
 18-	For Constraint type, choose Launch.
+
 19-	Under Launch Constraint, for Method, choose Select IAM role.
+
 20-	Choose AmazonSageMakerServiceCatalogProductsLaunchRole.
+
 21-	Choose Create.
+
 22-	On the Groups, roles, and users tab, choose Add groups, roles, users.
+
 23-	On the Roles tab, select the role you used when configuring your SageMaker Studio domain.
+
 24-	Choose Add access.
