@@ -5,7 +5,9 @@ We recommend starting by using SageMaker-provided templates to understand how to
 
 To do this, after you enable administrator access to the SageMaker templates, 
 1-	log in to the https://console.aws.amazon.com/servicecatalog/, 
+
 2-	On the AWS Service Catalog console, under Administration, choose Portfolios.
+
 3-	Choose Create a new portfolio.
 4-	Name the portfolio SageMaker Organization Templates.
 5-	Download the train-build-deploy.yml to your computer.
