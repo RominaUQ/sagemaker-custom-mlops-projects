@@ -46,7 +46,7 @@ To do this, after you enable administrator access to the SageMaker templates,
 
 20.	 Back in the portfolio details, you see something similar to the following screenshot (with different IDs).
 
-![alt text](https://github.com/RominaUQ/sagemaker-custom-mlops-projects/blob/main/image/img1.JPG)
+![alt text](https://github.com/RominaUQ/sagemaker-custom-mlops-projects/blob/main/2.%20custom-project/image/img1.JPG))
 
 21-	On the Constraints tab, choose **Create constraint**.
 
@@ -62,7 +62,7 @@ To do this, after you enable administrator access to the SageMaker templates,
 
 27-	On the Groups, roles, and users tab, choose Add groups, roles, users.
 
-28-	On the **Roles** tab, select the **role** you used when configuring your SageMaker Studio domain. This is where the SageMaker Domain Role can be found. ![alt text](https://github.com/RominaUQ/sagemaker-custom-mlops-projects/blob/main/image/img2.JPG)
+28-	On the **Roles** tab, select the **role** you used when configuring your SageMaker Studio domain. This is where the SageMaker Domain Role can be found. ![alt text](https://github.com/RominaUQ/sagemaker-custom-mlops-projects/blob/main/2.%20custom-project/image/img2.JPG)
 
 29-	Choose Add access.
 
@@ -76,4 +76,4 @@ On the SageMaker console, open SageMaker Studio with your user.
 Choose the Components and registries
 On the drop-down menu, choose Projects.
 Choose Create project.
-Now go to SageMaker studio, choose Project from the left hand side ![alt text](https://github.com/RominaUQ/sagemaker-custom-mlops-projects/blob/main/image/img3.JPG)
+Now go to SageMaker studio, choose Project from the left hand side ![alt text](https://github.com/RominaUQ/sagemaker-custom-mlops-projects/blob/main/2.%20custom-project/image/img3.JPG)
