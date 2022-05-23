@@ -44,7 +44,7 @@ To do this, after you enable administrator access to the SageMaker templates,
   a.	Key – **sagemaker:studio-visibility**
   b.	Value – **true**
 
-20.	 Back in the portfolio details, you see something similar to the following screenshot (with different IDs). ![alt text](images/img1.JPG)
+20.	 Back in the portfolio details, you see something similar to the following screenshot (with different IDs). ![alt text](https://github.com/RominaUQ/sagemaker-custom-mlops-projects/blob/main/image/img1.JPG)
 
 16-	On the Constraints tab, choose **Create constraint**.
 
