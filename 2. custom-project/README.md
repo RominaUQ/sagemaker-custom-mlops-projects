@@ -44,25 +44,28 @@ To do this, after you enable administrator access to the SageMaker templates,
   a.	Key – **sagemaker:studio-visibility**
   b.	Value – **true**
 
-20.	 Back in the portfolio details, you see something similar to the following screenshot (with different IDs). ![alt text](images/img1.JPG)
+20.	 Back in the portfolio details, you see something similar to the following screenshot (with different IDs).
 
-16-	On the Constraints tab, choose **Create constraint**.
+![alt text](https://github.com/RominaUQ/sagemaker-custom-mlops-projects/blob/main/image/img1.JPG)
 
-17-	For Product, choose build-deploy-template (the product you just created).
+21-	On the Constraints tab, choose **Create constraint**.
 
-18-	For Constraint type, choose Launch.
+22-	For Product, choose build-deploy-template (the product you just created).
 
-19-	Under Launch Constraint, for Method, choose Select IAM role.
+23-	For Constraint type, choose Launch.
 
-20-	Choose **AmazonSageMakerServiceCatalogProductsLaunchRole**.
+24-	Under Launch Constraint, for Method, choose Select IAM role.
 
-21-	Choose Create.
+25-	Choose **AmazonSageMakerServiceCatalogProductsLaunchRole**.
 
-22-	On the Groups, roles, and users tab, choose Add groups, roles, users.
+26-	Choose Create.
 
-23-	On the **Roles** tab, select the **role** you used when configuring your SageMaker Studio domain. This is where the SageMaker Domain Role can be found. ![alt text](images/img2.JPG)
+27-	On the Groups, roles, and users tab, choose Add groups, roles, users.
 
-24-	Choose Add access.
+28-	On the **Roles** tab, select the **role** you used when configuring your SageMaker Studio domain. This is where the SageMaker Domain Role can be found. ![alt text](https://github.com/RominaUQ/sagemaker-custom-mlops-projects/blob/main/image/img2.JPG)
+
+29-	Choose Add access.
+
 
 ## Creating your project
 
@@ -73,4 +76,4 @@ On the SageMaker console, open SageMaker Studio with your user.
 Choose the Components and registries
 On the drop-down menu, choose Projects.
 Choose Create project.
-Now go to SageMaker studio, choose Project from the left hand side ![alt text](images/img3.JPG)
+Now go to SageMaker studio, choose Project from the left hand side ![alt text](https://github.com/RominaUQ/sagemaker-custom-mlops-projects/blob/main/image/img3.JPG)
