@@ -76,4 +76,4 @@ On the SageMaker console, open SageMaker Studio with your user.
 Choose the Components and registries
 On the drop-down menu, choose Projects.
 Choose Create project.
-Now go to SageMaker studio, choose Project from the left hand side ![alt text](images/img3.JPG)](https://github.com/RominaUQ/sagemaker-custom-mlops-projects/blob/main/image/img3.JPG)
+Now go to SageMaker studio, choose Project from the left hand side ![alt text](https://github.com/RominaUQ/sagemaker-custom-mlops-projects/blob/main/image/img3.JPG)
