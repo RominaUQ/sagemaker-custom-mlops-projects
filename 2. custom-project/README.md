@@ -25,21 +25,21 @@ To do this, after you enable administrator access to the SageMaker templates,
 
 8-	For Product name¸ enter a name for your template. We chose **build-deploy-template**.
 
-9-	For Description, enter my custom build and deploy template.
+9-	For Description, enter **my custom build and deploy template**.
 
-10-	For Owner, enter your name.
+10-	For Owner, enter your **name**.
 
 11-	Under Version details, for Method, choose **Use a template file**.
 
-12-	Choose Upload a template.
+12-	Choose **Upload a template**.
 
 13-	Upload the template you downloaded.
 
-14-	For Version title, choose 1.0.
+14-	For Version title, choose **1.0**.
 
 15.	Choose Review.
 
-16.	Review your settings and choose Create product.
+16.	Review your settings and choose **Create product**.
 
 17.	Choose Refresh to list the new product.
 
