@@ -46,7 +46,9 @@ To do this, after you enable administrator access to the SageMaker templates,
 18.	Choose the product you just created.
 
 19.	On the Tags tab, add the following tag to the product:
+
   a.	Key – **sagemaker:studio-visibility**
+  
   b.	Value – **true**
 
 20.	 Back in the portfolio details, you see something similar to the following screenshot (with different IDs).
