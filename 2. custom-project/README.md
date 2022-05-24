@@ -14,7 +14,7 @@ To do this, after you enable administrator access to the SageMaker templates,
 
 5-	Download the **train-build-deploy.yml** to your computer. This template is a Cloud Formation tempalte that provisions all the CI/CD resources we need as configuarion and infrustruce as code. You can study the template in more details to see what resources are deployed as part of it. You can read in more details on the resources deployed as part of this tempale in this blog: https://aws.amazon.com/blogs/machine-learning/building-automating-managing-and-scaling-ml-workflows-using-amazon-sagemaker-pipelines/
 
-![alt text](https://github.com/RominaUQ/sagemaker-custom-mlops-projects/blob/main/2.%20custom-project/image/img4.JPG)
+![alt text](https://github.com/RominaUQ/sagemaker-custom-mlops-projects/blob/main/2.%20custom-project/image/img4.jpg)
 
 
 
