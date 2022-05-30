@@ -1,7 +1,7 @@
 # sagemaker-custom-mlops-projects
 This repository consists of two parts.
 
-The first part, **1. pipeline:** shows how you can create a ML workflow using sagemaker pipelines. This is what we create in the first workshop.
+1) The first part, **1. pipeline:** shows how you can create a ML workflow using sagemaker pipelines. This is what we create in the first workshop.
 
 ![alt text](https://github.com/RominaUQ/sagemaker-custom-mlops-projects/blob/main/img1.JPG)
 
